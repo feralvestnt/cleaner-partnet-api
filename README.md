@@ -5,8 +5,6 @@ It is necessary to use maven to run the project http://maven.apache.org
 	
 	mvn spring-boot:run
 	
-Then access in your browser http://localhost:8080
-	
 # Technologies and Resources
 	- Spring Boot
 	- Java 11
@@ -15,7 +13,7 @@ Then access in your browser http://localhost:8080
 
 # Endpoints
 
-# Save and shorten Url
+# Optmization
 	
 * **URL**
 	- api/optimization
